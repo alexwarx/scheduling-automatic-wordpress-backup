@@ -1,4 +1,4 @@
-# Conociendo distrubuciones GNU/Linux
+# Agendando respaldo automatico de Wordpress
 
 <!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/scheduling-automatic-wordpress-backup/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)

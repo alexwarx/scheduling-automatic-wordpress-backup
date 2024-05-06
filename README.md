@@ -1,4 +1,4 @@
-# Getting to know GNU/Linux distros
+# Scheduling automatic Wordpress backup
 
 <!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/scheduling-automatic-wordpress-backup/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -22,6 +22,7 @@ Make a script that when executed performs the following actions.
 1. Perform a backup of the Wordpress site files.
 2. Perform a backup of the database associated to the Wordpress site.
 3. Generate a compressed file with all the backups made.
+4. Create a cron job to run this backup on a daily basis.
 
 ## 🚛 How to deliver this project?
 
