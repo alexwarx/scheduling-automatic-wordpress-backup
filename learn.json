@@ -1,0 +1,25 @@
+{
+	"slug" : "scheduling-automatic-wordpress-backup",
+	"title" : {
+		"us":"Scheduling automatic Wordpress backup",
+		"es":"Agendando respaldo automatico de Wordpress"
+	},
+	"status": "draft",
+	"translations": ["us","es"],
+	"technologies": ["ciberseguridad", "linux"],
+	"difficulty": "intermediate",
+	"syntax": "markdown",
+	"duration" : 3,
+  "projectType": "project",
+	"description" : {
+		"es":"Genera un script que realice el respaldo de un sitio web Wordpress incluyendo su data y lo guarde en un archivo comprimido.",
+		"us":"Generate a script to backup a Wordpress website including its data and save it in a compressed file."
+	},
+	"delivery": {
+		"instructions": {
+			"us": "Attach the text file with the script that performs the backup. Only plain text files are supported.",
+			"es": "Adjunta el archivo de texto con el script que realiza el respaldo. Solo se admiten archivos de texto plano."
+		},
+		"formats": ["text/plain"]
+	}
+}
