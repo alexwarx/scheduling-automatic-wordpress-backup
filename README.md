@@ -19,10 +19,11 @@ Create a text file with the script that solves the questions that are in the ins
 
 Make a script that when executed performs the following actions.
 
-1. Perform a backup of the Wordpress site files.
-2. Perform a backup of the database associated to the Wordpress site.
-3. Generate a compressed file with all the backups made.
-4. Create a cron job to run this backup on a daily basis.
+- [ ] Perform a backup of the Wordpress site files.
+- [ ] Perform a backup of the database associated to the Wordpress site.
+- [ ] Generate a compressed file with all the backups made.
+- [ ] Create a cron job to run this backup daily.
+- [ ] Make sure to follow the 3-2-1 Backup Strategy.
 
 ## 🚛 How to deliver this project?
 
