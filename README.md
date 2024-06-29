@@ -23,7 +23,7 @@ Make a script that when executed performs the following actions.
 - [ ] Perform a backup of the database associated to the Wordpress site.
 - [ ] Generate a compressed file with all the backups made.
 - [ ] Create a cron job to run this backup daily.
-- [ ] Make sure to follow the 3-2-1 Backup Strategy.
+- [ ] Make sure to follow the 3-2-1 Backup Strategy: 3 copies of your data, 2 different storage options, 1 offsite backup.
 
 ## 🚛 How to deliver this project?
 
