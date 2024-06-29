@@ -9,25 +9,29 @@
 
 <!-- endhide -->
 
+## 🛑 Before you start (Requirements)
+
+We are assuming you already deployed a [WordPress website running on Apache (LAMP)](https://4geeks.com/interactive-exercise/deploying-wordpress-site-debian). If you don't please star tby doing so and then you can come back to these next steps on implementing a backup process and best practices.
+
 ## 🌱 How to start this project?
 
-Create a text file with the script that solves the questions that are in the instructions. Remember that you must perform this project on a Debian computer or virtual machine that has a Wordpress web page deployed.
+Open the computer that contains your WordPress running on Apache and continue with the instructions below.
 
 ## 📝 Instructions
 
 ### 1. Assemble your team and choose a layout.
 
-Make a script that when executed performs the following actions.
+Make a python (recommended) or bash script that, when executed, performs the following actions.
 
-- [ ] Perform a backup of the Wordpress site files.
-- [ ] Perform a backup of the database associated to the Wordpress site.
+- [ ] Perform a backup of the WordPress site files.
+- [ ] Perform a database backup associated with the WordPress site.
 - [ ] Generate a compressed file with all the backups made.
 - [ ] Create a cron job to run this backup daily.
 - [ ] Make sure to follow the 3-2-1 Backup Strategy: 3 copies of your data, 2 different storage options, 1 offsite backup.
 
 ## 🚛 How to deliver this project?
 
-Once the script is ready, upload it to your 4geeks.com project.
+Once the Python or bash script is ready, upload it to your 4Geeks.com project delivery.
 
 <!-- hide -->
 ## Contributors
