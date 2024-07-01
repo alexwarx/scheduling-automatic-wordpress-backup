@@ -6,11 +6,11 @@
 	},
 	"status": "draft",
 	"translations": ["us","es"],
-	"technologies": ["ciberseguridad", "linux"],
+	"technologies": ["ciberseguridad", "linux", "cybersecurity"],
 	"difficulty": "intermediate",
-	"syntax": "markdown",
 	"duration" : 3,
-  "projectType": "project",
+	"preview": "https://github.com/breatheco-de/scheduling-automatic-wordpress-backup/blob/master/assets/preview.png?raw=true",
+  	"projectType": "project",
 	"description" : {
 		"es":"Genera un script que realice el respaldo de un sitio web Wordpress incluyendo su data y lo guarde en un archivo comprimido.",
 		"us":"Generate a script to backup a Wordpress website including its data and save it in a compressed file."
