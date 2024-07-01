@@ -9,6 +9,7 @@
 	"technologies": ["ciberseguridad", "linux", "cybersecurity"],
 	"difficulty": "intermediate",
 	"duration" : 3,
+	"solution": "https://github.com/breatheco-de/scheduling-automatic-wordpress-backup/blob/master/solution.md",
 	"preview": "https://github.com/breatheco-de/scheduling-automatic-wordpress-backup/blob/master/assets/preview.png?raw=true",
   	"projectType": "project",
 	"description" : {
