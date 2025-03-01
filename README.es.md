@@ -17,9 +17,11 @@ Crea un archivo de texto con el script que resuelva los planteamientos que está
 
 Realiza un script que al ejecutarse realice las siguientes acciones.
 
-1. Realizar una copia de seguridad de los archivos del sitio Wordpress.
-2. Realizar un respaldo de la base de datos asociada al sitio Wordpress.
-3. Generar un archivo comprimido con todos los respaldos realizados.
+- [ ] Realizar una copia de seguridad de los archivos del sitio de WordPress.
+- [ ] Realizar una copia de seguridad de la base de datos asociada al sitio de WordPress.
+- [ ] Generar un archivo comprimido con todas las copias de seguridad realizadas.
+- [ ] Crear un cron job para ejecutar esta copia de seguridad diariamente.
+- [ ] Asegúrate de seguir la Estrategia de Copia de Seguridad 3-2-1: 3 copias de tus datos, 2 opciones de almacenamiento diferentes, 1 copia de seguridad fuera del sitio.
 
 ## 🚛 ¿Cómo entregar este proyecto?
 
